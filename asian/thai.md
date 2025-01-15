@@ -4,5 +4,5 @@
 Select a restaurant:
 ## Glow Thai http://www.glowthairestaurant.com/
 ---
-Back to Asian
-Start Over
+[Back to Asian](asian)
+[Start Over](../home.md)
